@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: improve my programming skills a
+- 🥅 2022 Goals: improve my programming skills
 - ⚡ Fun fact: I love to learning new Tech.
 
 ### Connect with me:
