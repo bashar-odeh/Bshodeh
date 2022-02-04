@@ -4,7 +4,7 @@
 ## I'm a Software Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate within other open source reops
 - 🥅 2022 Goals: improve my programming skills
 - ⚡ Fun fact: I love to learning new Tech.
 
