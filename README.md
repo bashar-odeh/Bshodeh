@@ -3,7 +3,7 @@
 
 ## I'm a Software Developer !!
 
-- 🌱 I’m currently learning Software engineering
+- 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate within other open source repositories
 - 🥅 2022 Goals: improve my programming and soft skills 
 - ⚡ Great fact: I'm EAGER to learn new Tech.
