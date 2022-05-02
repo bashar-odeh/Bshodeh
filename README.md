@@ -1,7 +1,7 @@
 ### Hi there, I'm Bashar Odeh 👋
 
 
-## I'm a Software Developer !!
+## I'm a Software Engineer !!
 
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate within other open source repositories
